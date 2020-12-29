@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 -->
 
 Q: How come your activity is so low on github? 
+
 A: Lately I work with more closed-source software.
 
 Got more questions?
+
 Please email me!
 
 
