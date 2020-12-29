@@ -13,8 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Q: How come your activity is so low on github? 
+A: Lately I work with more closed-source software.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=taeduard&show_icons=true&theme=gruvbox&count_private=true)
+Got more questions?
+Please email me!
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaEduard&theme=gruvbox&count_private=true&layout=compact)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=TaEduard)
